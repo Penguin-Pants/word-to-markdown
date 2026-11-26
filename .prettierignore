@@ -1,0 +1,4 @@
+# Centrally managed shared standards from repo-template. Do not reformat here;
+# the synchronization controller requires byte-identical copies.
+.agents/
+.claude/skills/
